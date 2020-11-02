@@ -28,8 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c54e26a-0716-4c39-a867-e5439d37e4ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/~WRL1461.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$文档.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2-ascii.docx" beforeDir="false" afterPath="$PROJECT_DIR$/b2-ascii.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/文档.docx" beforeDir="false" afterPath="$PROJECT_DIR$/文档.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,13 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pintos-previous" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +76,7 @@
       <updated>1603889025769</updated>
       <workItem from="1603889026915" duration="6101000" />
       <workItem from="1604024337898" duration="320000" />
-      <workItem from="1604285397497" duration="1827000" />
+      <workItem from="1604285397497" duration="3912000" />
     </task>
     <servers />
   </component>
@@ -94,5 +102,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603892237566" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604293082682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604293082682" />
   </component>
 </project>
